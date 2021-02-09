@@ -11,6 +11,7 @@ export const Container = styled.div`
 
   h2 {
     color: #464957;
+    white-space: nowrap;
   }
 
   p {
