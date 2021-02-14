@@ -4,7 +4,7 @@ Hey there!
 
 You might be asking yourself "What is special about this one?" and well... absolutly nothing, but it was fun to make something fast! 😄
 
-## About this project
+## About this project ([Project URL](https://pedros-dynamic-timer.pscruzzz.vercel.app/))
 
 <img src="https://user-images.githubusercontent.com/67528242/107866652-d501bf80-6e51-11eb-9438-d5389a8cd5a5.png" width="400px">
 
