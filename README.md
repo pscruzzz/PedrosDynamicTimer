@@ -13,6 +13,8 @@ This was made with the purpose to compare the React Hooks model to the React Cla
 ### This Application Was Built With
 
 * [React-hooks](https://pt-br.reactjs.org/docs/hooks-intro.html)
+* [Styled-Components](https://styled-components.com/)
+* [Typescript](https://www.typescriptlang.org/)
 * [Hosted in Vercel](vercel.com)
 
 ## Contact
