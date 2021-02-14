@@ -6,15 +6,21 @@ export const Container = styled.div`
   align-items: center;
   justify-content: center;
 
-  width: 100vh;
-  height: 100vh;
+  div {
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
 
-  h2 {
-    color: #464957;
-    white-space: nowrap;
-  }
+    h2 {
+      color: #464957;
+      text-align: center;
+    }
 
-  p {
-    color: #8a90ab;
+    p {
+      color: #8a90ab;
+    }
   }
 `;

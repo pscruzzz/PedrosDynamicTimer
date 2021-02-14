@@ -8,24 +8,23 @@ export default createGlobalStyle`
     outline: 0;
   }
 
+  html{
+    font-size: 62.5%;
+  }
+
   body{
     font-family: Montserrat;
     font-weight: 400;
     background: no-repeat linear-gradient(#B4DCED, #BCD6F7, #B6BDE0);
 
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-
     h2{
       font-weight: 400;
-      font-size: 80px;
+      font-size: 5rem;
     }
 
     p{
       font-weight: 400;
-      font-size: 70px;
+      font-size: 4rem;
     }
   }
 `;

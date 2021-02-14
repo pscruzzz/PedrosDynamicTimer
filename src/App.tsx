@@ -23,8 +23,10 @@ const App: React.FC = () => {
     <>
       <GlobalStyle />
       <Container className="App">
-        <h2>Pedro&apos;s Dynamic Timer</h2>
-        <p>{timer}</p>
+        <div className="wrapper">
+          <h2>Pedro&apos;s Dynamic Timer</h2>
+          <p>{timer}</p>
+        </div>
       </Container>
     </>
   );
